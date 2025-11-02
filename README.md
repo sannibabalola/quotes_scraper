@@ -51,10 +51,11 @@ This project demonstrates:
 
 ---
 
-## How to Run the Script
+## 🚀 How to Run the Script
 
 ### Clone This Repository
 ```bash
+<<<<<<< HEAD
 <<<<<<< HEAD
 # Clone the repository
 git clone https://github.com/sannibabalola/quotes_scraper.git
@@ -70,6 +71,11 @@ pip install -r requirements.txt
 ```bash
 python scraper.py 
 =======
+=======
+# Clone the repository
+>>>>>>> 68517ad (Update README with new edits)
 git clone https://github.com/sannibabalola/quotes_scraper.git
+
+# Navigate into the project folder
 cd quotes_scraper
 >>>>>>> 8a54251 (Update README with new edits)
