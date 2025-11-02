@@ -60,3 +60,11 @@ git clone https://github.com/sannibabalola/quotes_scraper.git
 
 # Navigate into the project folder
 cd quotes_scraper
+
+# Install Dependencies
+```bash
+pip install -r requirements.txt
+
+# Run the Script
+```bash
+python scraper.py 
