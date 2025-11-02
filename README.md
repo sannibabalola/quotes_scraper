@@ -55,6 +55,7 @@ This project demonstrates:
 
 ### Clone This Repository
 ```bash
+<<<<<<< HEAD
 # Clone the repository
 git clone https://github.com/sannibabalola/quotes_scraper.git
 
@@ -68,3 +69,7 @@ pip install -r requirements.txt
 # Run the Script
 ```bash
 python scraper.py 
+=======
+git clone https://github.com/sannibabalola/quotes_scraper.git
+cd quotes_scraper
+>>>>>>> 8a54251 (Update README with new edits)
