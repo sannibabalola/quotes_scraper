@@ -55,5 +55,5 @@ This project demonstrates:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name](https://github.com/sannibabalola/quotes_scraper).git
 cd your-repo-name
