@@ -53,7 +53,10 @@ This project demonstrates:
 
 ## How to Run the Script
 
-### Clone the Repository
+### Clone This Repository
 ```bash
-git clone [https://github.com//sannibabalola/quotes_scraper](https://github.com/sannibabalola/quotes_scraper).git
-cd your-repo-name
+# Clone the repository
+git clone https://github.com/sannibabalola/quotes_scraper.git
+
+# Navigate into the project folder
+cd quotes_scraper
